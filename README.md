@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 3. to run the application
 ```
-python app.py
+python app.pytemplate.py
 ```
 
 
